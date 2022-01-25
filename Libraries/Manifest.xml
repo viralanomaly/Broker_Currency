@@ -12,5 +12,6 @@
     <Include file="AceTimer-3.0\AceTimer-3.0.xml"/>
     <Include file="AceBucket-3.0\AceBucket-3.0.xml"/>
     <Include file="AceConsole-3.0\AceConsole-3.0.xml"/>
+    <Include file="AceEvent-3.0\AceEvent-3.0.xml"/>
     @end-non-debug@-->
 </Ui>
