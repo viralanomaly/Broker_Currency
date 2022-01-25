@@ -1025,4 +1025,7 @@ do
 
         Broker_CurrencyDB = db
     end
+
+    Broker_Currency.OptionIcons = OptionIcons
+    Broker_Currency.BrokerIcons = BrokerIcons
 end -- do-block

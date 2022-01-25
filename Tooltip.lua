@@ -42,8 +42,8 @@ local PlusToken = "+"
 local MinusToken = "-"
 local TotalToken = "="
 
-local OptionIcons = {}
-local BrokerIcons = {}
+local OptionIcons = Broker_Currency.OptionIcons
+local BrokerIcons = Broker_Currency.BrokerIcons
 
 local CurrencyGained = {}
 local CurrencySpent = {}
